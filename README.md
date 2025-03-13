@@ -2,7 +2,7 @@
 
 - [Scroll Area](#scroll-area)
   - [Stack](#stack)
-  - [Dependencies](#dependencies)
+  - [Other Dependencies](#other-dependencies)
   - [Parameters](#parameters)
 
 ## Stack
@@ -11,7 +11,7 @@
 - TypeScript
 - Tailwind CSS
 
-## Dependencies
+## Other Dependencies
 
 - Radix UI
 
