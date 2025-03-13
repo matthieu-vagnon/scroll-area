@@ -1,11 +1,11 @@
-# Scroll Area
-
-- [Scroll Area](#scroll-area)
-  - [Stack](#stack)
+- [Stack](#stack)
+  - [Main Stack](#main-stack)
   - [Other Dependencies](#other-dependencies)
-  - [Parameters](#parameters)
+- [Parameters](#parameters)
 
-## Stack
+# Stack
+
+## Main Stack
 
 - React.js
 - TypeScript
@@ -15,7 +15,7 @@
 
 - Radix UI
 
-## Parameters
+# Parameters
 
 | Parameter       | Type    | Mandatory? (Default Value) | Description                                        |
 | --------------- | ------- | -------------------------- | -------------------------------------------------- |
